@@ -1,6 +1,7 @@
 {
     "name": "forelse/version-bundle",
     "description": "Manage your application version",
+    "version": "0.0.1",
     "type": "symfony-bundle",
     "require": {
         "php": ">=7.4",
