@@ -10,6 +10,16 @@ Use composer to install
 composer require forelse/version-bundle
 ```
 
+## Configuration
+
+You can customize the parameter bag key in the yaml configuration file.
+
+```yaml
+version:
+  app_version: 1.0.0.0
+  parameterbag_key: app.version
+```
+
 ## Usage
 
 The version number of the application is then available in the ParameterBag
