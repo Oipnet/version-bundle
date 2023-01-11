@@ -2,7 +2,7 @@
 
 namespace DependencyInjection;
 
-use Bme\VersionBundle\DependencyInjection\VersionExtension;
+use Forelse\VersionBundle\DependencyInjection\VersionExtension;
 use PHPUnit\Framework\TestCase;
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 

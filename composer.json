@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Bme\\VersionBundle\\": "src/"
+            "Forelse\\VersionBundle\\": "src/"
         }
     },
     "license": "MIT"

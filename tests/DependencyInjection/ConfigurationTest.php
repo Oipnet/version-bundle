@@ -2,7 +2,7 @@
 
 namespace DependencyInjection;
 
-use Bme\VersionBundle\DependencyInjection\Configuration;
+use Forelse\VersionBundle\DependencyInjection\Configuration;
 use PHPUnit\Framework\TestCase;
 use Symfony\Component\Config\Definition\Builder\TreeBuilder;
 use Symfony\Component\Config\Definition\Exception\InvalidConfigurationException;

@@ -1,8 +1,8 @@
 <?php
 
 
-use Bme\VersionBundle\DependencyInjection\VersionExtension;
-use Bme\VersionBundle\VersionBundle;
+use Forelse\VersionBundle\DependencyInjection\VersionExtension;
+use Forelse\VersionBundle\VersionBundle;
 use PHPUnit\Framework\TestCase;
 use Symfony\Component\DependencyInjection\Extension\ExtensionInterface;
 

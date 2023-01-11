@@ -1,8 +1,8 @@
 <?php
 
-namespace Bme\VersionBundle;
+namespace Forelse\VersionBundle;
 
-use Bme\VersionBundle\DependencyInjection\VersionExtension;
+use Forelse\VersionBundle\DependencyInjection\VersionExtension;
 use Symfony\Component\DependencyInjection\Extension\ExtensionInterface;
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
