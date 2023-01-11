@@ -1,18 +1,18 @@
 # VersionBundle
 
-Se bundle permet de charger le numéro de version de l'application en lisant le fichier version.yaml du dossier config/packages
+This bundle allows to load the version number of the application by reading the version.yaml file in the config/packages folder
 
-## Installation
+## Setup
 
-L'installation se fait via composer.
+Use composer to install
 
 ```shell
-composer require bme/version-bundle
+composer require forelse/version-bundle
 ```
 
-## Utilisation
+## Usage
 
-Le numéro de version de l'application est alors disponible dans le ParameterBag
+The version number of the application is then available in the ParameterBag
 
 ```php
 
