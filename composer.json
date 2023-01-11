@@ -15,5 +15,6 @@
         "psr-4": {
             "Bme\\VersionBundle\\": "src/"
         }
-    }
+    },
+    "license": "MIT"
 }
